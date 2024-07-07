@@ -1,0 +1,6 @@
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build/CMakeFiles/main.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build/CMakeFiles/edit_cache.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build/My_Library/CMakeFiles/My_Library.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build/My_Library/CMakeFiles/edit_cache.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build/My_Library/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-c0d478de000d6edaa0d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EJEMPLO-3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejecutable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejecutable-d8ca2c7dac7b7eb659b8.json",
+					"name" : "Ejecutable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build",
+		"source" : "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\melin\\OneDrive\\Desktop\\Instituto\\Tercero\\Ingenieria-de-Software\\08-Actividad-Evaluatoria\\main.cpp",
+  "file": "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\melin\\OneDrive\\Desktop\\Instituto\\Tercero\\Ingenieria-de-Software\\08-Actividad-Evaluatoria\\Ejemplo-2\\main.cpp",
+  "file": "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/build/My_Library",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DMy_Library_EXPORTS @CMakeFiles/My_Library.dir/includes_CXX.rsp -g -o CMakeFiles\\My_Library.dir\\My_Library.cpp.obj -c C:\\Users\\melin\\OneDrive\\Desktop\\Instituto\\Tercero\\Ingenieria-de-Software\\08-Actividad-Evaluatoria\\Ejemplo-2\\My_Library\\My_Library.cpp",
+  "file": "C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-2/My_Library/My_Library.cpp",
+  "output": "My_Library/CMakeFiles/My_Library.dir/My_Library.cpp.obj"
+}
+]

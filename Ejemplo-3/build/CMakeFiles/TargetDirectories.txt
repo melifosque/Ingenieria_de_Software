@@ -1,0 +1,7 @@
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build/CMakeFiles/Ejecutable.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build/CMakeFiles/edit_cache.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build/CMakeFiles/list_install_components.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build/CMakeFiles/install.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build/CMakeFiles/install/local.dir
+C:/Users/melin/OneDrive/Desktop/Instituto/Tercero/Ingenieria-de-Software/08-Actividad-Evaluatoria/Ejemplo-3/build/CMakeFiles/install/strip.dir

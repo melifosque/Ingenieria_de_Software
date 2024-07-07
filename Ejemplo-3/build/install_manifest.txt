@@ -1,0 +1,3 @@
+/bin/Ejecutable.exe
+/bin/config/config.json
+/bin/launcher.bat
